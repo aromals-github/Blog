@@ -1,0 +1,1 @@
+DEFAULT_EXCEPTION_MSG = "something went wrong in accounts!"
